@@ -1,0 +1,8 @@
+{
+  "env": {
+    "cypress_prod": "https://example.cypress.io",
+    "google_prod": "https://www.google.com",
+    "eltiempo_prod": "https://www.eltiempo.com"
+  }
+}
+
